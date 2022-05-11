@@ -1,3 +1,6 @@
 C programming
 java programming
 python
+C++
+SQL
+Perl
